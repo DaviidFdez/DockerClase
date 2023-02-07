@@ -8,6 +8,10 @@
 
 [Tarea_Redes.md](https://github.com/DaviidFdez/DockerClase/blob/main/Tarea_Redes/Tarea_Redes.md)
 
+### Tarea Redes - Avanzado
+
+[ejercicio4Redes.md](https://github.com/DaviidFdez/DockerClase/blob/main/Ejercicio_Redes_Avanzado/ejercicio4Redes.md)
+
 ### Tarea Docker
 
 [Tarea_Docker.md](https://github.com/DaviidFdez/DockerClase/blob/main/Tarea_Docker/Tarea_Docker.md)
